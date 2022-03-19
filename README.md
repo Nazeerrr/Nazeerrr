@@ -5,6 +5,5 @@
 - 📫 How to reach me, my email: nazeeradeniji1@gmail.com
 
 <!---
-Nazeerrr/Nazeerrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Nazeerrr/Nazeerrr is a ✨ self-motivating ✨UX/UI Designer focused on creating a more connected, easier to use world.
 --->
